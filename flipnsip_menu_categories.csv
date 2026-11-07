@@ -1,0 +1,17 @@
+﻿name,slug,description,sort_order,is_active,show_on_pos,show_on_kiosk,show_online
+Smash Burgers,smash-burgers,,1,1,1,1,1
+Chicken Burgers,chicken-burgers,,2,1,1,1,1
+Non-Meat Burgers,non-meat-burgers,,3,1,1,1,1
+Crunch Wraps,crunch-wraps,,4,1,1,1,1
+Fries,fries,,5,1,1,1,1
+Wings,wings,,6,1,1,1,1
+Chicken Tenders,chicken-tenders,,7,1,1,1,1
+Sides,sides,,8,1,1,1,1
+Milkshakes,milkshakes,,9,1,1,1,1
+Waffles,waffles,,10,1,1,1,1
+Croffles,croffles,,11,1,1,1,1
+Cakes,cakes,,12,1,1,1,1
+Cookie Dough,cookie-dough,,13,1,1,1,1
+Kids Meals,kids-meals,,14,1,1,1,1
+Dips,dips,,15,1,1,1,1
+Drinks,drinks,,16,1,1,1,1

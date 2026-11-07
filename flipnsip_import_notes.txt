@@ -1,0 +1,10 @@
+Flip N Sip menu import notes (source: menu burger (1).docx)
+
+16 categories; 58 priced products. No product photos supplied.
+Products are normalized for spelling/capitalization; verify with client before public launch.
+Not imported as products because base price is unspecified: Make Your Own Milkshake, Make Your Own Waffle. Toppings +£0.70 each.
+Future placeholders: 2 additional chicken burgers, 1 additional cookie dough product (names/prices unspecified).
+Modifiers to implement separately: meal upgrade +£3.00 drink or +£5.49 shake; burger toppings gherkins/jalapenos £0.49, extra cheese £0.50, hash brown £1.00, 3 onion rings £1.00, beef patty £2.95, turkey rashers £1.50; extra chicken price missing; sauce selections and extra sauce £0.50.
+Import CSV notes column is internal only, not a product field. Do not display import_notes publicly.
+CSV prices are pounds; convert to integer pence using app Money parser; do not use float.
+Import should be idempotent and previewable, and should not overwrite existing edits automatically.
